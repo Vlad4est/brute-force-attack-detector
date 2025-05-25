@@ -205,12 +205,6 @@ python brute_force_detector.py --generate --failed-threshold 1 --time-window 144
 - **Alert Fatigue**: Monitor false positive rates and tune accordingly
 - **Access Control**: Ensure proper permissions when accessing system log files
 
-## 👤 Author
-
-**Vlad Pădure**
-- Cybersecurity Student & Developer
-- Focused on Security Operations and Automation
-- Email: vlad.4est@gmail.com
 
 ## 🙏 Acknowledgments
 
