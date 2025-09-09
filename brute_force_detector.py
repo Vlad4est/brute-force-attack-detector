@@ -273,7 +273,7 @@ class BruteForceDetector:
                     ]
                 )
                 self.alerts.append(alert)
-                failed_count = 0  # Reset counter
+                failed_count = 0  # Reset counter 
     
     def generate_report(self) -> Dict:
         """Generate comprehensive security report"""
